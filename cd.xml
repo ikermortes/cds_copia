@@ -1,85 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="transforma.xsl"?>
-<EQUIPOS>
-    
-    <EQUIPO>
-        <NOMBRE>Real Madrid</NOMBRE>
-        <ENTRENADOR>Xabi Alonso</ENTRENADOR>
-        <ESTADIO>Santiago Bernabéu</ESTADIO>
-        <CAPACIDAD>85000</CAPACIDAD>
-        <AÑO_FUNDACION>1902</AÑO_FUNDACION>
-    </EQUIPO>
+<LLIGA>
+  <EQUIP>
+    <NOM>FC Barcelona</NOM>
+    <ENTRENADOR>Hansi Flick</ENTRENADOR>
+    <ESTADI>Spotify Camp Nou</ESTADI>
+    <CAPACITAT>99354</CAPACITAT>
+    <FUNDACIO>1899</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>FC Barcelona</NOMBRE>
-        <ENTRENADOR>Hansi Flick</ENTRENADOR>
-        <ESTADIO>Spotify Camp Nou</ESTADIO>
-        <CAPACIDAD>99354</CAPACIDAD>
-        <AÑO_FUNDACION>1899</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Real Madrid</NOM>
+    <ENTRENADOR>Carlo Ancelotti</ENTRENADOR>
+    <ESTADI>Santiago Bernabéu</ESTADI>
+    <CAPACITAT>81044</CAPACITAT>
+    <FUNDACIO>1902</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Atlético de Madrid</NOMBRE>
-        <ENTRENADOR>Diego Simeone</ENTRENADOR>
-        <ESTADIO>Riyadh Air Metropolitano</ESTADIO>
-        <CAPACIDAD>70460</CAPACIDAD>
-        <AÑO_FUNDACION>1903</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Atlético de Madrid</NOM>
+    <ENTRENADOR>Diego Simeone</ENTRENADOR>
+    <ESTADI>Cívitas Metropolitano</ESTADI>
+    <CAPACITAT>70460</CAPACITAT>
+    <FUNDACIO>1903</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Valencia CF</NOMBRE>
-        <ENTRENADOR>Carlos Corberán</ENTRENADOR>
-        <ESTADIO>Mestalla</ESTADIO>
-        <CAPACIDAD>49430</CAPACIDAD>
-        <AÑO_FUNDACION>1919</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Valencia CF</NOM>
+    <ENTRENADOR>Rubén Baraja</ENTRENADOR>
+    <ESTADI>Mestalla</ESTADI>
+    <CAPACITAT>49430</CAPACITAT>
+    <FUNDACIO>1919</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Sevilla FC</NOMBRE>
-        <ENTRENADOR>Matías Almeyda</ENTRENADOR>
-        <ESTADIO>Ramón Sánchez-Pizjuán</ESTADIO>
-        <CAPACIDAD>43883</CAPACIDAD>
-        <AÑO_FUNDACION>1890</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Sevilla FC</NOM>
+    <ENTRENADOR>Quique Sánchez Flores</ENTRENADOR>
+    <ESTADI>Ramón Sánchez-Pizjuán</ESTADI>
+    <CAPACITAT>43883</CAPACITAT>
+    <FUNDACIO>1890</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Athletic Club</NOMBRE>
-        <ENTRENADOR>Ernesto Valverde</ENTRENADOR>
-        <ESTADIO>San Mamés</ESTADIO>
-        <CAPACIDAD>53289</CAPACIDAD>
-        <AÑO_FUNDACION>1898</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Real Betis</NOM>
+    <ENTRENADOR>Manuel Pellegrini</ENTRENADOR>
+    <ESTADI>Benito Villamarín</ESTADI>
+    <CAPACITAT>60721</CAPACITAT>
+    <FUNDACIO>1907</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Real Betis</NOMBRE>
-        <ENTRENADOR>Manuel Pellegrini</ENTRENADOR>
-        <ESTADIO>Benito Villamarín</ESTADIO>
-        <CAPACIDAD>60721</CAPACIDAD>
-        <AÑO_FUNDACION>1907</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Athletic Club</NOM>
+    <ENTRENADOR>Ernesto Valverde</ENTRENADOR>
+    <ESTADI>San Mamés</ESTADI>
+    <CAPACITAT>53289</CAPACITAT>
+    <FUNDACIO>1898</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Villarreal CF</NOMBRE>
-        <ENTRENADOR>Marcelino García Toral</ENTRENADOR>
-        <ESTADIO>La Cerámica</ESTADIO>
-        <CAPACIDAD>23500</CAPACIDAD>
-        <AÑO_FUNDACION>1923</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Real Sociedad</NOM>
+    <ENTRENADOR>Imanol Alguacil</ENTRENADOR>
+    <ESTADI>Reale Arena</ESTADI>
+    <CAPACITAT>39500</CAPACITAT>
+    <FUNDACIO>1909</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Real Sociedad</NOMBRE>
-        <ENTRENADOR>Sergio Francisco</ENTRENADOR>
-        <ESTADIO>Reale Arena</ESTADIO>
-        <CAPACIDAD>39313</CAPACIDAD>
-        <AÑO_FUNDACION>1909</AÑO_FUNDACION>
-    </EQUIPO>
+  <EQUIP>
+    <NOM>Villarreal CF</NOM>
+    <ENTRENADOR>Marcelino García Toral</ENTRENADOR>
+    <ESTADI>Estadio de la Cerámica</ESTADI>
+    <CAPACITAT>23500</CAPACITAT>
+    <FUNDACIO>1923</FUNDACIO>
+  </EQUIP>
 
-    <EQUIPO>
-        <NOMBRE>Girona FC</NOMBRE>
-        <ENTRENADOR>Míchel Sánchez</ENTRENADOR>
-        <ESTADIO>Montilivi</ESTADIO>
-        <CAPACIDAD>14500</CAPACIDAD>
-        <AÑO_FUNDACION>1930</AÑO_FUNDACION>
-    </EQUIPO>
-
-</EQUIPOS>
+  <EQUIP>
+    <NOM>Girona FC</NOM>
+    <ENTRENADOR>Míchel Sánchez</ENTRENADOR>
+    <ESTADI>Montilivi</ESTADI>
+    <CAPACITAT>14500</CAPACITAT>
+    <FUNDACIO>1930</FUNDACIO>
+  </EQUIP>
+</LLIGA>
