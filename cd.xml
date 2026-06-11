@@ -7,7 +7,7 @@
         <ENTRENADOR>Xabi Alonso</ENTRENADOR>
         <ESTADIO>Santiago Bernabéu</ESTADIO>
         <CAPACIDAD>85000</CAPACIDAD>
-        <AÑO_FUNDACION>1902</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1902</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -15,7 +15,7 @@
         <ENTRENADOR>Hansi Flick</ENTRENADOR>
         <ESTADIO>Spotify Camp Nou</ESTADIO>
         <CAPACIDAD>99354</CAPACIDAD>
-        <AÑO_FUNDACION>1899</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1899</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -23,7 +23,7 @@
         <ENTRENADOR>Diego Simeone</ENTRENADOR>
         <ESTADIO>Riyadh Air Metropolitano</ESTADIO>
         <CAPACIDAD>70460</CAPACIDAD>
-        <AÑOFUNDACION>1903</ANIO_FUNDACION>
+        <AÑOFUNDACION>1903</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -31,7 +31,7 @@
         <ENTRENADOR>Carlos Corberán</ENTRENADOR>
         <ESTADIO>Mestalla</ESTADIO>
         <CAPACIDAD>49430</CAPACIDAD>
-        <AÑO_FUNDACION>1919</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1919</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -39,7 +39,7 @@
         <ENTRENADOR>Matías Almeyda</ENTRENADOR>
         <ESTADIO>Ramón Sánchez-Pizjuán</ESTADIO>
         <CAPACIDAD>43883</CAPACIDAD>
-        <AÑO_FUNDACION>1890</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1890</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -47,7 +47,7 @@
         <ENTRENADOR>Ernesto Valverde</ENTRENADOR>
         <ESTADIO>San Mamés</ESTADIO>
         <CAPACIDAD>53289</CAPACIDAD>
-        <AÑO_FUNDACION>1898</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1898</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -55,7 +55,7 @@
         <ENTRENADOR>Manuel Pellegrini</ENTRENADOR>
         <ESTADIO>Benito Villamarín</ESTADIO>
         <CAPACIDAD>60721</CAPACIDAD>
-        <AÑO_FUNDACION>1907</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1907</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -63,7 +63,7 @@
         <ENTRENADOR>Marcelino García Toral</ENTRENADOR>
         <ESTADIO>La Cerámica</ESTADIO>
         <CAPACIDAD>23500</CAPACIDAD>
-        <AÑO_FUNDACION>1923</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1923</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -71,7 +71,7 @@
         <ENTRENADOR>Sergio Francisco</ENTRENADOR>
         <ESTADIO>Reale Arena</ESTADIO>
         <CAPACIDAD>39313</CAPACIDAD>
-        <AÑO_FUNDACION>1909</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1909</AÑO_FUNDACION>
     </EQUIPO>
 
     <EQUIPO>
@@ -79,7 +79,7 @@
         <ENTRENADOR>Míchel Sánchez</ENTRENADOR>
         <ESTADIO>Montilivi</ESTADIO>
         <CAPACIDAD>14500</CAPACIDAD>
-        <AÑO_FUNDACION>1930</ANIO_FUNDACION>
+        <AÑO_FUNDACION>1930</AÑO_FUNDACION>
     </EQUIPO>
 
 </EQUIPOS>
